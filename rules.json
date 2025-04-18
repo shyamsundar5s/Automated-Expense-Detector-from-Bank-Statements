@@ -1,0 +1,8 @@
+{
+    "GROCERY": "Groceries",
+    "RESTAURANT": "Dining",
+    "UBER": "Transport",
+    "NETFLIX": "Entertainment",
+    "ELECTRIC": "Utilities",
+    "WATER": "Utilities"
+}
